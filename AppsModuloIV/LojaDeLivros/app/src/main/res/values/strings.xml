@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LojaDeLivros</string>
+    <string name="textviewMensagem">Selecione o livro para comprar:</string>
+    <string name="checkboxLivro1">Linux completo e total</string>
+    <string name="checkboxLivro2">Java completo e total</string>
+    <string name="checkboxLivro3">Javascript completo e total</string>
+    <string name="buttonComprar">COMPRAR</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FinalProjectIFSertaozinho</string>
+    <string name="title">CAD.FIS</string>
+    <string name="subtitle">Sistema de Cadastro de Pessoa Física</string>
+    <string name="home_button">Cadastrar Pessoa Física</string>
+    <string name="insert_field1">Nome</string>
+    <string name="insert_field2">CPF</string>
+    <string name="insert_field3">RG</string>
+    <string name="insert_field4">Data de Nascimento</string>
+    <string name="insert_field5">Telefone Celular</string>
+    <string name="insert_field6">E-Mail</string>
+    <string name="insert_button">Cadastrar</string>
+    <string name="list_button">Listar Cadastros</string>
+    <string name="return_button">Início</string>
+    <string name="blank"></string>
+</resources>
