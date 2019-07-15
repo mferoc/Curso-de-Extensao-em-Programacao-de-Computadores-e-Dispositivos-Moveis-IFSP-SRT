@@ -32,7 +32,7 @@ Período: Noturno
 
 3 - Tela de listagem de disciplinas: / List of subjects screen: 
 
-![Screenshot_02](https://github.com/mferoc/Curso-de-Extensao-em-Programacao-de-Computadores-e-Dispositivos-Moveis-IFSP-SRT/blob/master/FinalProjectModuloIII/screenshots/Screenshot_02.png)
+![Screenshot_02](https://github.com/mferoc/Curso-de-Extensao-em-Programacao-de-Computadores-e-Dispositivos-Moveis-IFSP-SRT/blob/master/FinalProjectModuloIII/screenshots/Screenshot_03.png)
 
 _____________________________________________________________________________________________________________________________
 Projeto Final do Módulo IV:
